@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "id": "bbce3c39-749a-48d6-b85a-cc67492bab55",
+      "metadata": {
+        "to_persona": null,
+        "model": {
+          "settings": {},
+          "id": null
+        },
+        "settings": {}
+      },
+      "raw_time": false,
+      "deleted": true,
+      "time": 1792696057.0536087,
+      "body": "",
+      "type": "msg",
+      "sender": "34c7348edb7349c5afc69f348ce5e533"
+    }
+  ],
+  "users": {
+    "hidden::jupyter_ai_system": {
+      "initials": null,
+      "avatar_url": null,
+      "name": "System",
+      "color": null,
+      "username": "hidden::jupyter_ai_system",
+      "bot": true,
+      "display_name": "System"
+    },
+    "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona": {
+      "color": null,
+      "username": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona",
+      "name": "OpenCode",
+      "bot": true,
+      "initials": null,
+      "display_name": "OpenCode",
+      "avatar_url": "/api/ai/avatars/jupyter-ai-personas%3A%3Ajupyter_ai_acp_client%3A%3AOpenCodeAcpPersona"
+    },
+    "jupyter-ai-personas::jupyter_ai_acp_client::CopilotAcpPersona": {
+      "name": "Copilot",
+      "avatar_url": "/api/ai/avatars/jupyter-ai-personas%3A%3Ajupyter_ai_acp_client%3A%3ACopilotAcpPersona",
+      "username": "jupyter-ai-personas::jupyter_ai_acp_client::CopilotAcpPersona",
+      "initials": null,
+      "color": null,
+      "bot": true,
+      "display_name": "Copilot"
+    },
+    "34c7348edb7349c5afc69f348ce5e533": {
+      "name": "Anonymous Dia",
+      "mention_name": "Anonymous-Dia",
+      "initials": "AD",
+      "color": "var(--jp-collaborator-color1)",
+      "avatar_url": null,
+      "username": "34c7348edb7349c5afc69f348ce5e533",
+      "display_name": "Anonymous Dia",
+      "bot": false
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "9566e1c3-8a19-4cdc-ab5c-94f7a1856d37"
+  }
+}
